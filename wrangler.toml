@@ -4,7 +4,6 @@ main = "src/index.ts"
 compatibility_date = "2024-12-18"
 compatibility_flags = ["nodejs_compat"]
 
-route = { pattern = "decap-proxy.simplexo.de", zone_name = "simplexo.de" }
 
 
 # Workers Logs
